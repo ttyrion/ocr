@@ -1,0 +1,18 @@
+﻿  dgif_lib.c
+  egif_lib.c
+  gifalloc.c
+  gif_err.c
+  gif_font.c
+  gif_hash.c
+  openbsd-reallocarray.c
+dgif_lib.c(385): warning C4018: “<”: 有符号/无符号不匹配
+egif_lib.c(479): warning C4028: 形参 2 与声明不同
+  quantize.c
+egif_lib.c(884): warning C4028: 形参 3 与声明不同
+egif_lib.c(972): warning C4028: 形参 2 与声明不同
+quantize.c(132): warning C4018: “<”: 有符号/无符号不匹配
+quantize.c(141): warning C4018: “<”: 有符号/无符号不匹配
+quantize.c(152): warning C4244: “=”: 从“long”转换到“GifByteType”，可能丢失数据
+quantize.c(153): warning C4244: “=”: 从“long”转换到“GifByteType”，可能丢失数据
+quantize.c(154): warning C4244: “=”: 从“long”转换到“GifByteType”，可能丢失数据
+  giflib.vcxproj -> G:\learn\github\VS2015_Tesseract\Release\giflib.lib

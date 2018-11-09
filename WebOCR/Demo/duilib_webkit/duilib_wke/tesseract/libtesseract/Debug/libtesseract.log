@@ -1,0 +1,512 @@
+﻿  baseapi.cpp
+  capi.cpp
+  pdfrenderer.cpp
+  renderer.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\api\capi.cpp)
+  adaptions.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\api\renderer.cpp)
+  applybox.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\api\pdfrenderer.cpp)
+  control.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\adaptions.cpp)
+  cubeclassifier.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\vs2010\port\gettimeofday.h(24): fatal error C1083: 无法打开包括文件: “winsock.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\control.cpp)
+  cube_control.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\applybox.cpp)
+  cube_reco_context.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\api\baseapi.cpp)
+  docqual.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\cubeclassifier.cpp)
+  equationdetect.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\docqual.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccmain\equationdetect.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  fixspace.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccmain\equationdetect.cpp(23): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory
+  fixxht.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\cube_reco_context.cpp)
+  ltrresultiterator.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\cube_control.cpp)
+  osdetect.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\fixspace.cpp)
+  output.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\fixxht.cpp)
+  pageiterator.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\osdetect.cpp)
+  pagesegmain.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\output.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\ltrresultiterator.cpp)
+  pagewalk.cpp
+  paragraphs.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\pageiterator.cpp)
+  paramsd.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\paragraphs.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\pagewalk.cpp)
+  par_control.cpp
+  pgedit.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\pagesegmain.cpp)
+  recogtraining.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\pgedit.cpp)
+  reject.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\par_control.cpp)
+  resultiterator.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\recogtraining.cpp)
+  superscript.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\reject.cpp)
+  tessbox.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\resultiterator.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\superscript.cpp)
+  tessedit.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\tessbox.cpp)
+  tesseractclass.cpp
+  tesseract_cube_combiner.cpp
+  tessvars.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\tessedit.cpp)
+  tfacepp.cpp
+  thresholder.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\tesseractclass.cpp)
+  werdit.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\tfacepp.cpp)
+  blamer.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\werdit.cpp)
+  blobbox.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\blamer.cpp)
+  blobs.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\thresholder.cpp)
+  blread.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\blobbox.cpp)
+  boxread.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\blobs.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\blread.cpp)
+  boxword.cpp
+  ccstruct.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\boxread.cpp)
+  coutln.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccmain\tesseract_cube_combiner.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\boxword.cpp)
+  detlinefit.cpp
+  dppoint.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\ccstruct.cpp)
+  fontinfo.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\coutln.cpp)
+  genblob.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\dppoint.cpp)
+  linlsq.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccstruct\linlsq.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\detlinefit.cpp)
+  matrix.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\fontinfo.cpp)
+  mod128.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\genblob.cpp)
+  normalis.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\linlsq.cpp)
+  ocrblock.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\matrix.cpp)
+  ocrpara.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\mod128.cpp)
+  ocrrow.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\ocrblock.cpp)
+  otsuthr.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\normalis.cpp)
+  pageres.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\ocrpara.cpp)
+  params_training_featdef.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\ocrrow.cpp)
+  pdblock.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\pageres.cpp)
+  points.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\otsuthr.cpp)
+  polyaprx.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\params_training_featdef.cpp)
+  polyblk.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\pdblock.cpp)
+  publictypes.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\points.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\polyaprx.cpp)
+  quadlsq.cpp
+  quspline.cpp
+  ratngs.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\polyblk.cpp)
+  rect.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\quadlsq.cpp)
+  rejctmap.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\ratngs.cpp)
+  seam.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\quspline.cpp)
+  split.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\rect.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\rejctmap.cpp)
+  statistc.cpp
+  stepblob.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\seam.cpp)
+  vecfuncs.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\split.cpp)
+  werd.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\statistc.cpp)
+  ambigs.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\stepblob.cpp)
+  basedir.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\werd.cpp)
+  bits16.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccstruct\vecfuncs.cpp)
+  bitvector.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\bits16.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\ambigs.cpp)
+  ccutil.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\basedir.cpp)
+  clst.cpp
+  elst.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\bitvector.cpp)
+  elst2.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\ccutil.cpp)
+  errcode.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\elst.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\elst2.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\clst.cpp)
+  globaloc.cpp
+  indexmapbidi.cpp
+  mainblk.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\mainblk.cpp)
+  memry.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\errcode.cpp)
+  params.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\indexmapbidi.cpp)
+  scanutils.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\globaloc.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\memry.cpp)
+  serialis.cpp
+  strngs.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\params.cpp)
+  tessdatamanager.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\scanutils.cpp)
+  tprintf.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\serialis.cpp)
+  unichar.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\strngs.cpp)
+  unicharmap.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\tessdatamanager.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\unichar.cpp)
+  unicharset.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\unicharmap.cpp)
+  unicodes.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\tprintf.cpp)
+  universalambigs.cpp
+  adaptive.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\unicharset.cpp)
+  adaptmatch.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\ccutil\unicodes.cpp)
+  blobclass.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\adaptive.cpp)
+  classify.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\adaptmatch.cpp)
+  cluster.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\blobclass.cpp)
+  clusttool.cpp
+  cutoffs.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\cluster.cpp)
+  errorcounter.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\clusttool.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\classify.cpp)
+  featdefs.cpp
+  float2int.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\cutoffs.cpp)
+  fpoint.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\fpoint.cpp)
+  intfeaturedist.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\errorcounter.cpp)
+  intfeaturemap.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\float2int.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\featdefs.cpp)
+  intfeaturespace.cpp
+  intfx.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\intfeaturedist.cpp)
+  intmatcher.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\intfeaturemap.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\intfx.cpp)
+  intproto.cpp
+  kdtree.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\intfeaturespace.cpp)
+  mastertrainer.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\kdtree.cpp)
+  mf.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\intmatcher.cpp)
+  mfdefs.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\mastertrainer.cpp)
+  mfoutline.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\intproto.cpp)
+  mfx.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\mf.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\mfoutline.cpp)
+  normfeat.cpp
+  normmatch.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\mfdefs.cpp)
+  ocrfeatures.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\normmatch.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\mfx.cpp)
+  outfeat.cpp
+  picofeat.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\normfeat.cpp)
+  protos.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\ocrfeatures.cpp)
+  sampleiterator.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\protos.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\outfeat.cpp)
+  shapeclassifier.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\picofeat.cpp)
+  shapetable.cpp
+  tessclassifier.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\sampleiterator.cpp)
+  trainingsample.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\shapetable.cpp)
+  trainingsampleset.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\shapeclassifier.cpp)
+  altlist.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\tessclassifier.cpp)
+  beam_search.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\trainingsample.cpp)
+  bmp_8.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\classify\trainingsampleset.cpp)
+  cached_file.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\beam_search.cpp)
+  char_altlist.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\cube\bmp_8.cpp(744): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\learn\github\vs2015_tesseract\tesseract_3.05\cube\bmp_8.cpp(817): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\altlist.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\cube\bmp_8.cpp(936): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  char_bigrams.cpp
+  char_samp.cpp
+  char_samp_enum.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\char_altlist.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\char_bigrams.cpp)
+  char_samp_set.cpp
+  char_set.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\char_samp.cpp)
+  classifier_factory.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\char_samp_set.cpp)
+  conv_net_classifier.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\char_set.cpp)
+  con_comp.cpp
+  cube_line_object.cpp
+  cube_line_segmenter.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\classifier_factory.cpp)
+  cube_object.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\conv_net_classifier.cpp)
+  cube_search_object.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\cube_line_object.cpp)
+  cube_tuning_params.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\cube_line_segmenter.cpp)
+  cube_utils.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\cube_object.cpp)
+  feature_bmp.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\cube_search_object.cpp)
+  feature_chebyshev.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\cube_tuning_params.cpp)
+  feature_hybrid.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\cube_utils.cpp)
+  hybrid_neural_net_classifier.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\feature_bmp.cpp)
+  search_column.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\feature_chebyshev.cpp)
+  search_node.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\feature_hybrid.cpp)
+  tess_lang_model.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\hybrid_neural_net_classifier.cpp)
+  tess_lang_mod_edge.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\search_column.cpp)
+  word_altlist.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\tess_lang_mod_edge.cpp)
+  word_list_lang_model.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\search_node.cpp)
+  word_size_model.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\tess_lang_model.cpp)
+  word_unigrams.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\word_list_lang_model.cpp)
+  bitvec.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\word_altlist.cpp)
+  callcpp.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\word_size_model.cpp)
+  cutil.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cutil\callcpp.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cutil\bitvec.cpp)
+  cutil_class.cpp
+  danerror.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cutil\danerror.cpp)
+  efio.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cutil\cutil.cpp)
+  emalloc.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cutil\cutil_class.cpp)
+  freelist.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cutil\emalloc.cpp)
+  oldlist.cpp
+  structures.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cube\word_unigrams.cpp)
+  context.cpp
+  dawg.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cutil\oldlist.cpp)
+  dawg_cache.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\cutil\structures.cpp)
+  dict.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\dict\context.cpp)
+  hyphen.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\dict\dawg.cpp)
+  permdawg.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\dict\dawg_cache.cpp)
+  stopper.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\dict\dict.cpp)
+  trie.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\dict\hyphen.cpp)
+  input_file_buffer.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\dict\permdawg.cpp)
+  neural_net.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\dict\trie.cpp)
+  neuron.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\dict\stopper.cpp)
+  sigmoid_table.cpp
+  openclwrapper.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\opencl\openclwrapper.cpp)
+  alignedblob.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\alignedblob.cpp)
+  baselinedetect.cpp
+  bbgrid.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\baselinedetect.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.h(132): warning C4800: “unsigned int”: 将值强制为布尔值“true”或“false”(性能警告) (编译源文件 ..\tesseract_3.05\neural_networks\runtime\neural_net.cpp)
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.cpp(223): note: 参见对正在编译的函数 模板 实例化“bool tesseract::NeuralNet::ReadBinary<tesseract::InputFileBuffer>(ReadBuffType *)”的引用
+          with
+          [
+              ReadBuffType=tesseract::InputFileBuffer
+          ]
+g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.cpp(99): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.cpp(294): note: 参见对正在编译的函数 模板 实例化“bool tesseract::NeuralNet::FeedForward<double>(const double *,double *)”的引用
+g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.cpp(105): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.cpp(76): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.cpp(295): note: 参见对正在编译的函数 模板 实例化“bool tesseract::NeuralNet::FastFeedForward<float>(const float *,float *)”的引用
+g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.cpp(67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.cpp(297): note: 参见对正在编译的函数 模板 实例化“bool tesseract::NeuralNet::FastFeedForward<double>(const double *,double *)”的引用
+  blkocc.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.cpp(252): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.cpp(303): note: 参见对正在编译的函数 模板 实例化“bool tesseract::NeuralNet::FastGetNetOutput<float>(const float *,int,float *)”的引用
+g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.cpp(262): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.cpp(241): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\neural_networks\runtime\neural_net.cpp(305): note: 参见对正在编译的函数 模板 实例化“bool tesseract::NeuralNet::FastGetNetOutput<double>(const double *,int,double *)”的引用
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\bbgrid.cpp)
+  blobgrid.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\blkocc.cpp)
+  ccnontextdetect.cpp
+  cjkpitch.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\blobgrid.cpp)
+  colfind.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\ccnontextdetect.cpp)
+  colpartition.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\cjkpitch.cpp)
+  colpartitiongrid.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\colfind.cpp)
+  colpartitionset.cpp
+  devanagari_processing.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\colpartition.cpp)
+  drawedg.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\colpartitiongrid.cpp)
+  drawtord.cpp
+  edgblob.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\devanagari_processing.cpp)
+  edgloop.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\colpartitionset.cpp)
+  equationdetectbase.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\drawtord.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\edgblob.cpp)
+  fpchop.cpp
+  gap_map.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\edgloop.cpp)
+  imagefind.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\fpchop.cpp)
+  linefind.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\equationdetectbase.cpp)
+  makerow.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\imagefind.cpp)
+  oldbasel.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\gap_map.cpp)
+  pithsync.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\makerow.cpp)
+  pitsync1.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\linefind.cpp)
+  scanedg.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\pitsync1.cpp)
+  sortflts.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\pithsync.cpp)
+  strokewidth.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\oldbasel.cpp)
+  tabfind.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\scanedg.cpp)
+  tablefind.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\strokewidth.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\tabfind.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\sortflts.cpp)
+  tablerecog.cpp
+  tabvector.cpp
+  textlineprojection.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\tablefind.cpp)
+  textord.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\tablerecog.cpp)
+  topitch.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\tabvector.cpp)
+  tordmain.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\textlineprojection.cpp)
+  tospace.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\topitch.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\textord.cpp)
+  tovars.cpp
+  underlin.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\tordmain.cpp)
+  wordseg.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\tospace.cpp)
+  workingpartset.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\wordseg.cpp)
+  scrollview.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\underlin.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\tovars.cpp)
+  svmnode.cpp
+  svpaint.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\textord\workingpartset.cpp)
+  svutil.cpp
+  gettimeofday.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\viewer\svutil.cpp(25): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory
+  strtok_r.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\vs2010\port\gettimeofday.h(24): fatal error C1083: 无法打开包括文件: “winsock.h”: No such file or directory (编译源文件 ..\tesseract_3.05\vs2010\port\gettimeofday.cpp)
+  associate.cpp
+  chop.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\associate.cpp)
+  chopper.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\chop.cpp)
+  drawfx.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\drawfx.cpp)
+  findseam.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\chopper.cpp)
+  gradechop.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\viewer\svmnode.cpp)
+  language_model.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\findseam.cpp)
+  lm_consistency.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\gradechop.cpp)
+  lm_pain_points.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\viewer\svutil.h(30): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\viewer\scrollview.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\language_model.cpp)
+  lm_state.cpp
+  outlines.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\lm_consistency.cpp)
+  params_model.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\lm_pain_points.cpp)
+  pieces.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\lm_state.cpp)
+  plotedges.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\outlines.cpp)
+  render.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\plotedges.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\params_model.cpp)
+  segsearch.cpp
+  tface.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\pieces.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\render.cpp)
+  wordclass.cpp
+  wordrec.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\tface.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\segsearch.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\wordclass.cpp)
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\host.h(24): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\tesseract_3.05\wordrec\wordrec.cpp)

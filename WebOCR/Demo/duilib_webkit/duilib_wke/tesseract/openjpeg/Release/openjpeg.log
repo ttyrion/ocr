@@ -1,0 +1,24 @@
+﻿  bio.c
+  cio.c
+  dwt.c
+  event.c
+  function_list.c
+  image.c
+  invert.c
+  j2k.c
+  jp2.c
+  mct.c
+  mqc.c
+mqc.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+jp2.c(809): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  openjpeg.c
+  opj_clock.c
+  opj_malloc.c
+  pi.c
+  sparse_array.c
+  t1.c
+  t2.c
+  tcd.c
+  tgt.c
+  thread.c
+  openjpeg.vcxproj -> G:\learn\github\VS2015_Tesseract\Release\openjpeg.lib

@@ -1,0 +1,467 @@
+﻿  adaptmap.c
+  affine.c
+  affinecompose.c
+  arrayaccess.c
+..\leptonica\src\affine.c(810): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\affine.c(1614): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  bardecode.c
+  baseline.c
+  bbuffer.c
+  bilateral.c
+..\leptonica\src\bardecode.c(612): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\bardecode.c(623): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\bardecode.c(910): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\bardecode.c(1030): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  bilinear.c
+  binarize.c
+  binexpand.c
+  binreduce.c
+..\leptonica\src\bilinear.c(672): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\binexpand.c(199): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  blend.c
+  bmf.c
+  bmpio.c
+  bmpiostub.c
+..\leptonica\src\bmf.c(348): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  bootnumgen1.c
+  bootnumgen2.c
+  bootnumgen3.c
+  boxbasic.c
+  boxfunc1.c
+  boxfunc2.c
+  boxfunc3.c
+..\leptonica\src\boxbasic.c(1529): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\boxbasic.c(1955): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\boxbasic.c(2181): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  boxfunc4.c
+..\leptonica\src\boxfunc1.c(504): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\boxfunc1.c(654): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\boxfunc1.c(2282): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\boxfunc2.c(1621): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  bytearray.c
+  ccbord.c
+  ccthin.c
+..\leptonica\src\boxfunc4.c(2209): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\boxfunc4.c(2229): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  classapp.c
+..\leptonica\src\ccbord.c(1648): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  colorcontent.c
+  coloring.c
+..\leptonica\src\classapp.c(543): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\classapp.c(527): warning C4101: “d”: 未引用的局部变量
+  colormap.c
+  colormorph.c
+..\leptonica\src\colorcontent.c(846): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\colorcontent.c(859): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\coloring.c(166): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\colorcontent.c(862): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\coloring.c(171): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\colorcontent.c(867): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\coloring.c(263): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\coloring.c(269): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\colorcontent.c(1046): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\colorcontent.c(1338): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\coloring.c(395): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\coloring.c(401): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\coloring.c(406): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\coloring.c(408): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\colorcontent.c(1546): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\colorcontent.c(1782): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  colorquant1.c
+..\leptonica\src\colormap.c(1670): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  colorquant2.c
+  colorseg.c
+  colorspace.c
+..\leptonica\src\colorquant1.c(2465): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\colorquant2.c(671): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\colorseg.c(234): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  compare.c
+  conncomp.c
+  convertfiles.c
+  convolve.c
+  correlscore.c
+  dewarp1.c
+..\leptonica\src\compare.c(905): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\compare.c(1024): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\compare.c(2632): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  dewarp2.c
+  dewarp3.c
+..\leptonica\src\dewarp1.c(1279): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp1.c(1367): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  dewarp4.c
+..\leptonica\src\dewarp1.c(1560): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  dnabasic.c
+..\leptonica\src\dewarp3.c(574): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp2.c(240): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp2.c(316): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp2.c(582): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp2.c(779): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp2.c(951): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp2.c(1403): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  dnafunc1.c
+  dnahash.c
+..\leptonica\src\dewarp4.c(264): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp4.c(369): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp4.c(372): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp4.c(375): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp4.c(378): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp4.c(382): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp4.c(385): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp4.c(389): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp4.c(392): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp4.c(395): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp4.c(460): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\dewarp4.c(937): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  dwacomb.2.c
+  dwacomblow.2.c
+  edge.c
+  encoding.c
+  enhance.c
+  fhmtauto.c
+  fhmtgen.1.c
+  fhmtgenlow.1.c
+..\leptonica\src\enhance.c(734): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\enhance.c(1745): warning C4101: “j”: 未引用的局部变量
+  finditalic.c
+  flipdetect.c
+  fliphmtgen.c
+  fmorphauto.c
+  fmorphgen.1.c
+  fmorphgenlow.1.c
+  fpix1.c
+  fpix2.c
+  gifio.c
+..\leptonica\src\fpix1.c(1791): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\fpix2.c(378): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\fpix2.c(380): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\fpix1.c(2089): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\fpix2.c(619): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\fpix2.c(596): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\fpix2.c(598): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  gifiostub.c
+  gplot.c
+  graphics.c
+..\leptonica\src\gifio.c(144): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\gifio.c(212): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\gifio.c(632): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  graymorph.c
+  grayquant.c
+  heap.c
+  jbclass.c
+..\leptonica\src\graymorph.c(248): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\graymorph.c(364): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\graymorph.c(496): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\graymorph.c(627): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  jp2kheader.c
+..\leptonica\src\grayquant.c(2410): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  jp2kheaderstub.c
+  jp2kio.c
+  jp2kiostub.c
+  jpegio.c
+  jpegiostub.c
+..\leptonica\src\jp2kio.c(292): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\jp2kio.c(371): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\jp2kio.c(381): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\jp2kio.c(543): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\jp2kio.c(545): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\jp2kio.c(801): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  kernel.c
+  leptwin.c
+..\leptonica\src\jpegio.c(1020): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  libversions.c
+  list.c
+  map.c
+..\leptonica\src\list.c(252): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  maze.c
+  morph.c
+  morphapp.c
+..\leptonica\src\maze.c(801): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\maze.c(816): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\maze.c(831): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\maze.c(846): warning C4018: “<”: 有符号/无符号不匹配
+  morphdwa.c
+  morphseq.c
+..\leptonica\src\morphapp.c(282): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\morphapp.c(1499): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  numabasic.c
+  numafunc1.c
+  numafunc2.c
+  pageseg.c
+..\leptonica\src\numabasic.c(1171): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\numabasic.c(1888): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  paintcmap.c
+..\leptonica\src\numafunc1.c(2723): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\numafunc2.c(525): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\numafunc2.c(577): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\numafunc2.c(637): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  parseprotos.c
+..\leptonica\src\numafunc2.c(1770): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\numafunc2.c(1861): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pageseg.c(555): warning C4101: “buf”: 未引用的局部变量
+..\leptonica\src\pageseg.c(1225): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pageseg.c(1227): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  partition.c
+..\leptonica\src\pageseg.c(1861): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  pdfio1.c
+..\leptonica\src\paintcmap.c(432): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\paintcmap.c(434): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  pdfio1stub.c
+  pdfio2.c
+  pdfio2stub.c
+..\leptonica\src\pdfio1.c(314): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pdfio1.c(580): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pdfio1.c(779): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pdfio1.c(1510): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  pix1.c
+  pix2.c
+..\leptonica\src\pdfio2.c(542): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pdfio2.c(716): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pdfio2.c(2165): warning C4018: “>=”: 有符号/无符号不匹配
+  pix3.c
+  pix4.c
+..\leptonica\src\pix2.c(467): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pix2.c(526): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pix2.c(885): warning C4018: “>=”: 有符号/无符号不匹配
+..\leptonica\src\pix2.c(1132): warning C4018: “>=”: 有符号/无符号不匹配
+..\leptonica\src\pix2.c(1139): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pix2.c(1599): warning C4018: “>=”: 有符号/无符号不匹配
+..\leptonica\src\pix2.c(1864): warning C4018: “>=”: 有符号/无符号不匹配
+..\leptonica\src\pix2.c(2481): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pix2.c(2623): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  pix5.c
+  pixabasic.c
+..\leptonica\src\pix3.c(225): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pix3.c(853): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  pixacc.c
+  pixafunc1.c
+..\leptonica\src\pix5.c(2890): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pix5.c(2891): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pix5.c(2899): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pix5.c(2900): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixabasic.c(1673): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixabasic.c(2190): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixabasic.c(2630): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixabasic.c(3038): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  pixafunc2.c
+  pixalloc.c
+  pixarith.c
+..\leptonica\src\pixafunc1.c(1376): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  pixcomp.c
+..\leptonica\src\pixalloc.c(189): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixafunc2.c(1420): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  pixconv.c
+..\leptonica\src\pixafunc2.c(2137): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixafunc2.c(2637): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  pixlabel.c
+..\leptonica\src\pixarith.c(287): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixarith.c(289): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixarith.c(379): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixarith.c(381): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixarith.c(496): warning C4018: “>=”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(513): warning C4018: “<=”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(692): warning C4018: “>=”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1192): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1193): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1194): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1195): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1196): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1197): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1198): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1199): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1201): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1202): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1203): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1204): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1206): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1207): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1209): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1373): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1374): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pixarith.c(1375): warning C4018: “>”: 有符号/无符号不匹配
+  pixtiling.c
+..\leptonica\src\pixcomp.c(560): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixcomp.c(569): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixcomp.c(1598): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixcomp.c(1779): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixcomp.c(1979): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixconv.c(1426): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixconv.c(1614): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixconv.c(1618): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pixconv.c(1645): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  pngio.c
+..\leptonica\src\pixconv.c(3409): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  pngiostub.c
+  pnmio.c
+  pnmiostub.c
+..\leptonica\src\pngio.c(301): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(304): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(310): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(313): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(324): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(327): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(397): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(400): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(402): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(415): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(418): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(396): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pngio.c(663): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pngio.c(1177): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1196): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1203): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1205): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1351): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1464): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1647): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1650): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1656): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1659): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1670): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1673): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1743): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1746): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1748): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1761): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1764): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(1742): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\pngio.c(2042): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(2067): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(2074): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\pngio.c(2076): warning C4018: “<”: 有符号/无符号不匹配
+  projective.c
+..\leptonica\src\pnmio.c(633): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  psio1.c
+  psio1stub.c
+..\leptonica\src\pnmio.c(1098): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  psio2.c
+..\leptonica\src\projective.c(672): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\psio1.c(172): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\psio1.c(219): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\psio1.c(292): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\psio1.c(344): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\psio1.c(977): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  psio2stub.c
+  ptabasic.c
+  ptafunc1.c
+..\leptonica\src\psio2.c(494): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\psio2.c(577): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\psio2.c(579): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\psio2.c(581): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\psio2.c(583): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\psio2.c(686): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\psio2.c(1081): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\psio2.c(1560): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\psio2.c(1659): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  ptafunc2.c
+..\leptonica\src\ptabasic.c(759): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  ptra.c
+..\leptonica\src\ptabasic.c(1392): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\ptafunc1.c(2283): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\ptafunc1.c(2565): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  quadtree.c
+  queue.c
+  rank.c
+..\leptonica\src\ptra.c(609): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  rbtree.c
+..\leptonica\src\quadtree.c(674): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  readbarcode.c
+  readfile.c
+  recogbasic.c
+  recogdid.c
+..\leptonica\src\readbarcode.c(907): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\readbarcode.c(1205): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\readbarcode.c(1209): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\readbarcode.c(1214): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\readbarcode.c(1317): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  recogident.c
+..\leptonica\src\readfile.c(1603): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\recogbasic.c(354): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  recogtrain.c
+..\leptonica\src\recogbasic.c(966): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  regutils.c
+  rop.c
+..\leptonica\src\recogident.c(509): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\recogident.c(519): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\recogident.c(1563): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\recogident.c(1568): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\recogident.c(1574): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\recogident.c(1581): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  roplow.c
+..\leptonica\src\regutils.c(333): warning C4018: “<”: 有符号/无符号不匹配
+  rotate.c
+  rotateam.c
+  rotateorth.c
+  rotateshear.c
+..\leptonica\src\rotate.c(132): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\rotate.c(558): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  runlength.c
+  sarray1.c
+  sarray2.c
+..\leptonica\src\rotateshear.c(217): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\rotateshear.c(267): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  scale1.c
+  scale2.c
+..\leptonica\src\sarray1.c(1464): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  seedfill.c
+..\leptonica\src\scale1.c(1456): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  sel1.c
+..\leptonica\src\scale2.c(1464): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  sel2.c
+..\leptonica\src\seedfill.c(3117): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\seedfill.c(3135): warning C4018: “<=”: 有符号/无符号不匹配
+  selgen.c
+..\leptonica\src\sel1.c(248): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\sel1.c(2077): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\sel1.c(2152): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  shear.c
+  skew.c
+..\leptonica\src\selgen.c(200): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\selgen.c(205): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\selgen.c(211): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\selgen.c(216): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  spixio.c
+  stack.c
+  stringcode.c
+  strokes.c
+  sudoku.c
+..\leptonica\src\spixio.c(457): warning C4018: “>=”: 有符号/无符号不匹配
+  textops.c
+  tiffio.c
+  tiffiostub.c
+  utils1.c
+..\leptonica\src\textops.c(735): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  utils2.c
+  warper.c
+..\leptonica\src\tiffio.c(529): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\tiffio.c(562): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\tiffio.c(564): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\tiffio.c(572): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\tiffio.c(573): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\tiffio.c(1133): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\tiffio.c(2077): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  watershed.c
+  webpio.c
+..\leptonica\src\watershed.c(666): warning C4018: “>=”: 有符号/无符号不匹配
+  webpiostub.c
+..\leptonica\src\webpio.c(188): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  writefile.c
+  zlibmem.c
+..\leptonica\src\utils1.c(261): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\utils1.c(399): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\utils1.c(402): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\utils1.c(463): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\utils1.c(466): warning C4018: “<”: 有符号/无符号不匹配
+  zlibmemstub.c
+..\leptonica\src\utils2.c(330): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\utils2.c(381): warning C4018: “>”: 有符号/无符号不匹配
+..\leptonica\src\utils2.c(1002): warning C4018: “>=”: 有符号/无符号不匹配
+..\leptonica\src\utils2.c(1058): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\utils2.c(1358): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\utils2.c(1940): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+..\leptonica\src\utils2.c(1969): warning C4101: “realdir”: 未引用的局部变量
+..\leptonica\src\utils2.c(2249): warning C4101: “realpath”: 未引用的局部变量
+..\leptonica\src\utils2.c(2777): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\utils2.c(2782): warning C4018: “<”: 有符号/无符号不匹配
+..\leptonica\src\utils2.c(2840): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\direct.h(91): note: 参见“getcwd”的声明
+  liblept.vcxproj -> G:\learn\github\VS2015_Tesseract\Release\liblept.lib

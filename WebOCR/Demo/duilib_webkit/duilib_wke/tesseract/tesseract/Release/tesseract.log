@@ -1,0 +1,377 @@
+﻿  正在生成代码
+  
+  --- 正在分析函数: opj_tcd_dc_level_shift_encode
+  g:\learn\github\vs2015_tesseract\openjpeg\tcd.c(2381) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\openjpeg\tcd.c(2386) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: opj_mct_decode_real
+  g:\learn\github\vs2015_tesseract\openjpeg\mct.c(430) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: opj_mct_decode
+  g:\learn\github\vs2015_tesseract\openjpeg\mct.c(167) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: opj_mct_encode
+  g:\learn\github\vs2015_tesseract\openjpeg\mct.c(105) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: opj_lupSolve
+  g:\learn\github\vs2015_tesseract\openjpeg\invert.c(236) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\openjpeg\invert.c(258) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: opj_lupDecompose
+  g:\learn\github\vs2015_tesseract\openjpeg\invert.c(126) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\openjpeg\invert.c(186) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: QuantizeLevels
+  g:\learn\github\vs2015_tesseract\libwebp\src\utils\quant_levels.c(106) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: InitGammaTablesF
+  g:\learn\github\vs2015_tesseract\libwebp\src\enc\picture_csp.c(197) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: InitGammaTables
+  g:\learn\github\vs2015_tesseract\libwebp\src\enc\picture_csp.c(99) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: SmartYUVUpdateRGB_SSE2
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\yuv_sse2.c(791) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: SmartYUVUpdateRGB_C
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\yuv.c(270) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: ExtraCostCombined
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\lossless_enc.c(624) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: ExtraCost
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\lossless_enc.c(616) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: VP8LSubtractGreenFromBlueAndRed_C
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\lossless_enc.c(503) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: VP8LAddGreenToBlueAndRed_C
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\lossless.c(245) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: PredictLineLeft
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters_sse2.c(68) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: PredictLineTop
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters_sse2.c(50) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: PredictLine
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(35) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(37) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: png_setup_paeth_row_only
+  g:\learn\github\vs2015_tesseract\libpng\pngwutil.c(2518) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: png_setup_up_row_only
+  g:\learn\github\vs2015_tesseract\libpng\pngwutil.c(2378) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: png_setup_sub_row_only
+  g:\learn\github\vs2015_tesseract\libpng\pngwutil.c(2334) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: png_do_invert
+  g:\learn\github\vs2015_tesseract\libpng\pngtrans.c(275) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: png_read_filter_row_up
+  g:\learn\github\vs2015_tesseract\libpng\pngrutil.c(3937) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: png_init_palette_transformations
+  g:\learn\github\vs2015_tesseract\libpng\pngrtran.c(1183) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: build_rgb_y_table
+  g:\learn\github\vs2015_tesseract\libjpeg\jdcolor.c(271) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: forward_DCT_float
+  g:\learn\github\vs2015_tesseract\libjpeg\jcdctmgr.c(161) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: rgb_ycc_start
+  g:\learn\github\vs2015_tesseract\libjpeg\jccolor.c(110) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: int __cdecl scaleBinaryLow(unsigned int *,int,int,int,unsigned int *,int,int,int)
+  g:\learn\github\vs2015_tesseract\leptonica\src\scale1.c(3690) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\scale1.c(3692) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: int __cdecl scaleSmoothLow(unsigned int *,int,int,int,unsigned int *,int,int,int,int,int)
+  g:\learn\github\vs2015_tesseract\leptonica\src\scale1.c(3204) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\scale1.c(3206) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\scale1.c(3236) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: int __cdecl scaleBySamplingLow(unsigned int *,int,int,int,unsigned int *,int,int,int,int)
+  g:\learn\github\vs2015_tesseract\leptonica\src\scale1.c(3071) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\scale1.c(3073) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: makeLogBase2Tab
+  g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1500) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: makeRGBToIndexTables
+  g:\learn\github\vs2015_tesseract\leptonica\src\colorquant1.c(1388) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\colorquant1.c(1395) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\colorquant1.c(1402) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\colorquant1.c(1412) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\colorquant1.c(1422) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\colorquant1.c(1435) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: bool __thiscall tesseract::TableFinder::GapInXProjection(int *,int)
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\textord\tablefind.cpp(1779) : info C5001: 循环已向量化
+g:\learn\github\vs2015_tesseract\tesseract_3.05\classify\mfoutline.cpp(410): warning C4756: 常量算法中溢出
+g:\learn\github\vs2015_tesseract\tesseract_3.05\classify\mfoutline.cpp(414): warning C4756: 常量算法中溢出
+  
+  --- 正在分析函数: int __thiscall WERD_CHOICE::TotalOfStates(void)const 
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\ccstruct\ratngs.cpp(699) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: int __cdecl tesseract::OtsuStats(int const *,int *,int *)
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\ccstruct\otsuthr.cpp(179) : info C5001: 循环已向量化
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccstruct\ratngs.h(444): warning C4756: 常量算法中溢出
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccstruct\ratngs.h(423): warning C4756: 常量算法中溢出
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccstruct\ratngs.h(425): warning C4756: 常量算法中溢出
+  
+  --- 正在分析函数: opj_mct_decode_custom
+  g:\learn\github\vs2015_tesseract\openjpeg\mct.c(537) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: opj_mct_encode_custom
+  g:\learn\github\vs2015_tesseract\openjpeg\mct.c(480) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: opj_lupInvert
+  g:\learn\github\vs2015_tesseract\openjpeg\invert.c(236) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\openjpeg\invert.c(258) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: GenerateOptimalTree
+  g:\learn\github\vs2015_tesseract\libwebp\src\utils\huffman_encode.c(174) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: SimplifySegments
+  g:\learn\github\vs2015_tesseract\libwebp\src\enc\quant.c(362) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: FastMBAnalyze
+  g:\learn\github\vs2015_tesseract\libwebp\src\enc\analysis.c(275) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: SetSegmentAlphas
+  g:\learn\github\vs2015_tesseract\libwebp\src\enc\analysis.c(84) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: ConvertARGBToY
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\yuv.c(173) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: HistogramAdd
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\lossless_enc_sse2.c(251) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: SubtractGreenFromBlueAndRed
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\lossless_enc.c(503) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: SubtractGreenFromBlueAndRed
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\lossless_enc.c(503) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: PredictorSub0_C
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\lossless_enc.c(806) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: PredictorSub1_C
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\lossless_enc.c(813) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: HistogramAdd
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\lossless_enc.c(640) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\lossless_enc.c(652) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: PredictorAdd0
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\lossless.c(170) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: CopyOrSwap
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\lossless.c(497) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: VerticalUnfilter
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters_sse2.c(259) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: VerticalUnfilter
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(203) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: DoHorizontalFilter
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters_sse2.c(68) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: DoGradientFilter
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(35) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(37) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: DoVerticalFilter
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(35) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(37) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(35) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(37) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: DoHorizontalFilter
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(35) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(37) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(35) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(37) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: InitTables
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\enc.c(92) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: start_pass
+  g:\learn\github\vs2015_tesseract\libjpeg\jddctmgr.c(312) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: void __cdecl scaleColorAreaMapLow(unsigned int *,int,int,int,unsigned int *,int,int,int)
+  g:\learn\github\vs2015_tesseract\leptonica\src\scale1.c(3420) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\scale1.c(3444) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\scale1.c(3450) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: pixMultConstAccumulate
+  g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(839) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: pixAccumulate
+  g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(789) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(792) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: pixEndianByteSwap
+  g:\learn\github\vs2015_tesseract\leptonica\src\pix2.c(2955) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: pixSetComponentArbitrary
+  g:\learn\github\vs2015_tesseract\leptonica\src\pix2.c(1007) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: pixGetLinePtrs
+  g:\learn\github\vs2015_tesseract\leptonica\src\pix1.c(1828) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: pixNumColors
+  g:\learn\github\vs2015_tesseract\leptonica\src\colorcontent.c(1328) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: void __cdecl InitIntegerFX(void)
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\classify\intfx.cpp(59) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: struct MATRIX_COORD __thiscall WERD_CHOICE::MatrixCoord(int)const 
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\ccstruct\ratngs.cpp(282) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: float __thiscall tesseract::ParamsModel::ComputeCost(float const * const)const 
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\wordrec\params_model.cpp(80) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: int __cdecl LeadingUnicharsToChopped(class WERD_RES *,int)
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\ccmain\superscript.cpp(25) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: int __cdecl TrailingUnicharsToChopped(class WERD_RES *,int)
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\ccmain\superscript.cpp(32) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: void __cdecl compute_occupation_threshold(int,int,int,int *,int *)
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\textord\makerow.cpp(853) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\textord\makerow.cpp(895) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: ConvertARGBToY
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\yuv_sse2.c(630) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: GradientFilter
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(37) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: VerticalFilter
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(37) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(37) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: HorizontalFilter
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(37) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\libwebp\src\dsp\filters.c(37) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: AnalyzeEntropy
+  g:\learn\github\vs2015_tesseract\libwebp\src\enc\vp8l.c(251) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\libwebp\src\enc\vp8l.c(259) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: numaGetSortIndex
+  g:\learn\github\vs2015_tesseract\leptonica\src\numafunc1.c(2644) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: opj_j2k_dump_MH_index
+  g:\learn\github\vs2015_tesseract\openjpeg\j2k.c(10317) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: void __cdecl rasteropUniGeneralLow(unsigned int *,int,int,int,int,int,int)
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(431) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: void __cdecl rasteropWordAlignedLow(unsigned int *,int,int,int,int,int,int,unsigned int *,int,int,int)
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(651) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(664) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(677) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(690) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(703) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(716) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(729) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(742) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(755) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(768) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(782) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: void __cdecl rasteropVAlignedLow(unsigned int *,int,int,int,int,int,int,unsigned int *,int,int,int)
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(960) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(990) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(1021) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(1052) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(1083) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(1114) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(1145) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(1176) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(1207) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(1238) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(1270) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: void __cdecl rasteropUniWordAlignedLow(unsigned int *,int,int,int,int,int,int)
+  g:\learn\github\vs2015_tesseract\leptonica\src\roplow.c(255) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: opj_t1_decode_cblk
+  g:\learn\github\vs2015_tesseract\openjpeg\t1.c(1977) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: EGifPutLine
+  g:\learn\github\vs2015_tesseract\giflib\egif_lib.c(468) : info C5001: 循环已向量化
+g:\learn\github\vs2015_tesseract\tesseract_3.05\classify\classify.cpp(228): warning C4756: 常量算法中溢出
+  
+  --- 正在分析函数: opj_t1_clbl_decode_processor
+  g:\learn\github\vs2015_tesseract\openjpeg\t1.c(1749) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\openjpeg\t1.c(1780) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: TIFFReadDirEntryFloatArray
+  g:\learn\github\vs2015_tesseract\libtiff\tif_dirread.c(2510) : info C5001: 循环已向量化
+g:\learn\github\vs2015_tesseract\tesseract_3.05\textord\pitsync1.cpp(386): warning C4756: 常量算法中溢出
+  
+  --- 正在分析函数: float __thiscall `anonymous namespace'::LocalCorrelation::EstimateYFor(float,float)
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\textord\cjkpitch.cpp(152) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: ReadHuffmanCodes
+  g:\learn\github\vs2015_tesseract\libwebp\src\dec\vp8l.c(383) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\libwebp\src\dec\vp8l.c(443) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: pixFinalAccumulate
+  g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(638) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: void __thiscall tesseract::FeatureChebyshev::ChebyshevCoefficients(class std::vector<float,class std::allocator<float> > const &,int,float *)
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\cube\feature_chebyshev.cpp(68) : info C5001: 循环已向量化
+g:\learn\github\vs2015_tesseract\tesseract_3.05\dict\stopper.cpp(472): warning C4756: 常量算法中溢出
+g:\learn\github\vs2015_tesseract\tesseract_3.05\wordrec\chopper.cpp(545): warning C4756: 常量算法中溢出
+g:\learn\github\vs2015_tesseract\tesseract_3.05\wordrec\chopper.cpp(547): warning C4756: 常量算法中溢出
+g:\learn\github\vs2015_tesseract\tesseract_3.05\wordrec\chopper.cpp(552): warning C4756: 常量算法中溢出
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccstruct\normalis.cpp(434): warning C4756: 常量算法中溢出
+g:\learn\github\vs2015_tesseract\tesseract_3.05\classify\normmatch.cpp(114): warning C4756: 常量算法中溢出
+  
+  --- 正在分析函数: pixEndianByteSwapNew
+  g:\learn\github\vs2015_tesseract\leptonica\src\pix2.c(2895) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: pixClipToForeground
+  g:\learn\github\vs2015_tesseract\leptonica\src\pix5.c(1635) : info C5001: 循环已向量化
+  g:\learn\github\vs2015_tesseract\leptonica\src\pix5.c(1648) : info C5001: 循环已向量化
+g:\learn\github\vs2015_tesseract\tesseract_3.05\classify\adaptmatch.cpp(1482): warning C4756: 常量算法中溢出
+g:\learn\github\vs2015_tesseract\tesseract_3.05\wordrec\lm_state.cpp(66): warning C4756: 常量算法中溢出
+g:\learn\github\vs2015_tesseract\tesseract_3.05\wordrec\lm_state.h(196): warning C4756: 常量算法中溢出
+  
+  --- 正在分析函数: pixConvert8To32
+  g:\learn\github\vs2015_tesseract\leptonica\src\pixconv.c(3352) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: virtual void __thiscall tesseract::ConvNetCharClassifier::Fold(void)
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\cube\conv_net_classifier.cpp(122) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: virtual void __thiscall tesseract::HybridNeuralNetCharClassifier::Fold(void)
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\cube\hybrid_neural_net_classifier.cpp(118) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: int __thiscall tesseract::Classify::PruneClasses(struct INT_TEMPLATES_STRUCT const *,int,int,struct INT_FEATURE_STRUCT const *,unsigned char const *,unsigned short const *,class GenericVector<struct CP_RESULT_STRUCT> *)
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\classify\intmatcher.cpp(248) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: png_write_info
+  g:\learn\github\vs2015_tesseract\libpng\pngwrite.c(226) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: EncodeImageInternal
+  g:\learn\github\vs2015_tesseract\libwebp\src\enc\vp8l.c(908) : info C5001: 循环已向量化
+  
+  --- 正在分析函数: pixWriteStreamPng
+  g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1177) : info C5001: 循环已向量化
+g:\learn\github\vs2015_tesseract\tesseract_3.05\wordrec\chopper.cpp(335): warning C4756: 常量算法中溢出
+g:\learn\github\vs2015_tesseract\tesseract_3.05\textord\tordmain.cpp(750): warning C4756: 常量算法中溢出
+  
+  --- 正在分析函数: void __cdecl tesseract::DetectParagraphs(int,bool,class tesseract::MutableIterator const *,class GenericVector<class ParagraphModel *> *)
+  g:\learn\github\vs2015_tesseract\tesseract_3.05\ccmain\paragraphs.cpp(2544) : info C5001: 循环已向量化
+  已完成代码的生成
+  tesseract.vcxproj -> G:\learn\github\VS2015_Tesseract\Release\tesseract.exe
+  tesseract.vcxproj -> G:\learn\github\VS2015_Tesseract\Release\tesseract.pdb (Full PDB)

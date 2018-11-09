@@ -1,0 +1,223 @@
+﻿  affinecompose.c
+  baseline.c
+  bilinear.c
+  bmf.c
+  bootnumgen2.c
+  boxfunc1.c
+  bytearray.c
+  colorcontent.c
+  colorquant2.c
+  conncomp.c
+  correlscore.c
+  dewarp4.c
+  dwacomb.2.c
+  dwacomblow.2.c
+  edge.c
+  encoding.c
+  enhance.c
+  fhmtauto.c
+  fhmtgen.1.c
+  fhmtgenlow.1.c
+g:\learn\github\vs2015_tesseract\leptonica\src\enhance.c(1745): warning C4101: “j”: 未引用的局部变量
+  finditalic.c
+  flipdetect.c
+  fliphmtgen.c
+  fmorphauto.c
+  fmorphgen.1.c
+  fmorphgenlow.1.c
+  fpix1.c
+  fpix2.c
+g:\learn\github\vs2015_tesseract\leptonica\src\fpix2.c(619): warning C4018: “>”: 有符号/无符号不匹配
+  gifio.c
+  gifiostub.c
+  gplot.c
+  graphics.c
+g:\learn\github\vs2015_tesseract\leptonica\src\gifio.c(212): warning C4018: “>”: 有符号/无符号不匹配
+  graymorph.c
+  grayquant.c
+  heap.c
+  jbclass.c
+  jp2kheader.c
+  jp2kheaderstub.c
+  jp2kio.c
+  jp2kiostub.c
+  jpegio.c
+  jpegiostub.c
+g:\learn\github\vs2015_tesseract\leptonica\src\jp2kio.c(292): warning C4018: “<”: 有符号/无符号不匹配
+  kernel.c
+  leptwin.c
+  libversions.c
+  list.c
+g:\learn\github\vs2015_tesseract\leptonica\src\leptwin.h(32): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory (编译源文件 ..\leptonica\src\leptwin.c)
+  map.c
+  maze.c
+  morph.c
+  morphapp.c
+  morphdwa.c
+g:\learn\github\vs2015_tesseract\leptonica\src\maze.c(801): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\maze.c(816): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\maze.c(831): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\maze.c(846): warning C4018: “<”: 有符号/无符号不匹配
+  morphseq.c
+  numabasic.c
+  numafunc1.c
+  numafunc2.c
+  pageseg.c
+  paintcmap.c
+  parseprotos.c
+g:\learn\github\vs2015_tesseract\leptonica\src\pageseg.c(555): warning C4101: “buf”: 未引用的局部变量
+  partition.c
+  pdfio1.c
+  pdfio1stub.c
+  pdfio2.c
+  pdfio2stub.c
+  pix1.c
+  pix2.c
+g:\learn\github\vs2015_tesseract\leptonica\src\pdfio2.c(716): warning C4018: “>”: 有符号/无符号不匹配
+  pix3.c
+g:\learn\github\vs2015_tesseract\leptonica\src\pdfio2.c(2165): warning C4018: “>=”: 有符号/无符号不匹配
+  pix4.c
+g:\learn\github\vs2015_tesseract\leptonica\src\pix2.c(885): warning C4018: “>=”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pix2.c(1132): warning C4018: “>=”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pix2.c(1139): warning C4018: “>”: 有符号/无符号不匹配
+  pix5.c
+g:\learn\github\vs2015_tesseract\leptonica\src\pix2.c(1599): warning C4018: “>=”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pix2.c(1864): warning C4018: “>=”: 有符号/无符号不匹配
+  pixabasic.c
+  pixacc.c
+  pixafunc1.c
+g:\learn\github\vs2015_tesseract\leptonica\src\pix5.c(2890): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pix5.c(2891): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pix5.c(2899): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pix5.c(2900): warning C4018: “>”: 有符号/无符号不匹配
+  pixafunc2.c
+  pixalloc.c
+  pixarith.c
+  pixcomp.c
+  pixconv.c
+  pixlabel.c
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(496): warning C4018: “>=”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(513): warning C4018: “<=”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(692): warning C4018: “>=”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1192): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1193): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1194): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1195): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1196): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1197): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1198): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1199): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1201): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1202): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1203): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1204): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1206): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1207): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1209): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1373): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1374): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pixarith.c(1375): warning C4018: “>”: 有符号/无符号不匹配
+  pixtiling.c
+  pngio.c
+  pngiostub.c
+  pnmio.c
+  pnmiostub.c
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(301): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(304): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(310): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(313): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(324): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(327): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(397): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(400): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(402): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(415): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(418): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1177): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1196): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1203): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1205): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1351): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1464): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1647): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1650): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1656): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1659): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1670): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1673): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1743): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1746): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1748): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1761): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(1764): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(2042): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(2067): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(2074): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\pngio.c(2076): warning C4018: “<”: 有符号/无符号不匹配
+  projective.c
+  psio1.c
+  psio1stub.c
+  psio2.c
+  psio2stub.c
+  ptabasic.c
+  ptafunc1.c
+  ptafunc2.c
+  ptra.c
+  quadtree.c
+  queue.c
+  rank.c
+  rbtree.c
+  readbarcode.c
+  readfile.c
+  recogbasic.c
+  recogdid.c
+  recogident.c
+  recogtrain.c
+  regutils.c
+  rop.c
+g:\learn\github\vs2015_tesseract\leptonica\src\regutils.c(333): warning C4018: “<”: 有符号/无符号不匹配
+  roplow.c
+  rotate.c
+  rotateam.c
+  rotateorth.c
+  rotateshear.c
+  runlength.c
+  sarray1.c
+  sarray2.c
+  scale1.c
+g:\learn\github\vs2015_tesseract\leptonica\src\sarray1.c(1914): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory
+  scale2.c
+  seedfill.c
+  sel1.c
+g:\learn\github\vs2015_tesseract\leptonica\src\seedfill.c(3117): warning C4018: “>”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\seedfill.c(3135): warning C4018: “<=”: 有符号/无符号不匹配
+  sel2.c
+  selgen.c
+  shear.c
+  skew.c
+  spixio.c
+  stack.c
+  stringcode.c
+  strokes.c
+g:\learn\github\vs2015_tesseract\leptonica\src\spixio.c(457): warning C4018: “>=”: 有符号/无符号不匹配
+  sudoku.c
+  textops.c
+  tiffio.c
+  tiffiostub.c
+  utils1.c
+g:\learn\github\vs2015_tesseract\leptonica\src\utils1.c(93): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory
+  utils2.c
+  warper.c
+g:\learn\github\vs2015_tesseract\leptonica\src\tiffio.c(529): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\tiffio.c(562): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\tiffio.c(564): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\tiffio.c(572): warning C4018: “<”: 有符号/无符号不匹配
+g:\learn\github\vs2015_tesseract\leptonica\src\tiffio.c(573): warning C4018: “<”: 有符号/无符号不匹配
+  watershed.c
+g:\learn\github\vs2015_tesseract\leptonica\src\utils2.c(177): fatal error C1083: 无法打开包括文件: “windows.h”: No such file or directory
+  webpio.c
+  webpiostub.c
+  writefile.c
+g:\learn\github\vs2015_tesseract\leptonica\src\watershed.c(666): warning C4018: “>=”: 有符号/无符号不匹配
+  zlibmem.c
+  zlibmemstub.c

@@ -1,0 +1,3 @@
+﻿  tesseractmain.cpp
+g:\learn\github\vs2015_tesseract\tesseract_3.05\ccutil\params.h(206): warning C4800: “BOOL8”: 将值强制为布尔值“true”或“false”(性能警告)
+LINK : fatal error LNK1104: 无法打开文件“G:\learn\github\VS2015_Tesseract\libtesseract\Debug\baseapi.obj”

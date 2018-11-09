@@ -1,0 +1,3 @@
+﻿  equationdetect.cpp
+G:\learn\github\VS2015_Tesseract\tesseract_3.05\ccutil\params.h(206): warning C4800: “BOOL8”: 将值强制为布尔值“true”或“false”(性能警告)
+  libtesseract.vcxproj -> G:\learn\github\VS2015_Tesseract\Release\libtesseract.lib
