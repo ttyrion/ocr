@@ -23,8 +23,6 @@ public:
 	 LRESULT OnJsNotify(HWND hwnd, WPARAM wParam, LPARAM lParam);
 private:
     bool CaptureAnImage(HWND srcWnd, const std::wstring& destFile);
-    bool ConvertBMP2JPG(const std::wstring& dest_jpg_file, const std::wstring& src_bmp_file);
-    int GetEncoderClsid(const WCHAR* format, CLSID* pClsid);
 	explicit CFrameWnd(LPCTSTR pszXMLPath);
 	~CFrameWnd() {};
 

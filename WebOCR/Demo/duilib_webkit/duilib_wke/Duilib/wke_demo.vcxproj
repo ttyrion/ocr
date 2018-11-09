@@ -104,6 +104,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="FrameWnd.cpp" />
+    <ClCompile Include="GDIUtil.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="stdafx.cpp" />
     <ClCompile Include="TessOCR.cpp" />
@@ -112,6 +113,7 @@
   <ItemGroup>
     <ClInclude Include="asprise_ocr_api.h" />
     <ClInclude Include="FrameWnd.h" />
+    <ClInclude Include="GDIUtil.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="TessOCR.h" />

@@ -3,13 +3,14 @@
 #include <atlstr.h>
 #include <sstream>
 #include <ctime>
-#include <Gdiplus.h>
-#include<math.h>
+#include "GDIUtil.h"
+
 
 using namespace Gdiplus;
 
 #define  TIMER_MOUSE 1024
 #define  TIMER_INIT_OCR 1025
+
 
 jsValue JS_CALL js_msgBox(jsExecState es)
 {
@@ -262,7 +263,8 @@ void CFrameWnd::Notify( TNotifyUI& msg )
 		}
 		if( msg.pSender->GetName() == _T("btnforward") ) 
 		{
-			m_pWke->GoForward();
+			//m_pWke->GoForward();
+            GDIUtil::ClearRGB(L"G:\\learn\\github\\ocr\\WebOCR\\Demo\\duilib_webkit\\duilib_wke\\Bin\\imagecircle2.png");
 		}
 		if( msg.pSender->GetName() == _T("btnGo") ) 
 		{
@@ -320,7 +322,7 @@ bool CFrameWnd::CaptureAnImage(HWND hWnd, const std::wstring& destFile)
 {
     CLSID clsid;
     int ret = -1;
-    if (-1 != GetEncoderClsid(L"image/jpeg", &clsid))
+    if (-1 != GDIUtil::GetEncoderClsid(L"image/jpeg", &clsid))
     {
         bool succeed = false;
         HDC hdcWindow;
@@ -471,51 +473,4 @@ done:
 #endif
 }
 
-bool CFrameWnd::ConvertBMP2JPG(const std::wstring& dest_jpg_file, const std::wstring& src_bmp_file) {
-    GdiplusStartupInput startupInput;
-    ULONG_PTR token;
-    GdiplusStartup(&token, &startupInput, NULL);
-    {
-        Image image(src_bmp_file.c_str(), false);
-        CLSID clsid;
-        int ret = -1;
-        if (-1 != GetEncoderClsid(L"image/jpeg", &clsid))
-        {
-            Status status = image.Save(dest_jpg_file.c_str(), &clsid, NULL);
-            if (!status) {
-                return true;
-            }
-        }
-    }
 
-    return false;
-}
-
-int CFrameWnd::GetEncoderClsid(const WCHAR* format, CLSID* pClsid) {
-    UINT  num = 0;            // number of image encoders
-    UINT  size = 0;           // size of the image encoder array in bytes
-
-    ImageCodecInfo* pImageCodecInfo = NULL;
-
-    GetImageEncodersSize(&num, &size);
-    if (size == 0)
-        return -1;  // Failure
-
-    pImageCodecInfo = (ImageCodecInfo*)malloc(size);
-    if (pImageCodecInfo == NULL)
-        return -1;  // Failure
-
-    GetImageEncoders(num, size, pImageCodecInfo);
-
-    for (UINT j = 0; j < num; ++j)
-    {
-        if (wcscmp(pImageCodecInfo[j].MimeType, format) == 0)
-        {
-            *pClsid = pImageCodecInfo[j].Clsid;
-            free(pImageCodecInfo);
-            return j;  // Success
-        }
-    }
-    free(pImageCodecInfo);
-    return -1;
-}
